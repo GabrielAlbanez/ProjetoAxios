@@ -1,0 +1,42 @@
+.Container {
+
+min-width: 90vh;
+min-height: 90vh;
+display: flex;
+flex-direction: row;
+gap: 5rem;
+
+justify-content: space-between;
+align-items: start;
+
+flex-wrap: wrap;
+
+border-color: lightblue;
+padding: 2rem;
+
+border-radius: 20px;
+border-width: 5px;
+border-style: solid;
+
+}
+
+.container2{
+    
+     padding: 18px;
+     display: flex;
+     gap: 20px;
+     align-items: center;
+     justify-content: center;
+
+}
+
+.imgg{
+    width: 40px;
+    height: 40px;
+
+}
+
+.imgCard{
+    width: 200px;
+    height: 200px;
+}
